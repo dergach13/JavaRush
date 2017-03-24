@@ -4,3 +4,11 @@ JavaRushTasks/JavaRushPlugin.properties
 JavaRushTasks/.idea/*
 
 JavaRushTasks/out/*
+
+*.jrtc
+
+*.info
+
+JavaRushTasks/Инструкция.png
+
+JavaRushTasks/.idea/workspace.xml
